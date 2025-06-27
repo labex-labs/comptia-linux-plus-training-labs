@@ -32,7 +32,7 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                                          | 난이도   | 연습                                                                                                                                           |
 |----------|---------------------------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Linux 에서 vi 편집기로 텍스트 파일 편집하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-edit-text-files-with-the-vi-editor-in-linux-590833'>실습 시작</a>                 |
+|       01 | 📖 Linux 에서 Vim 및 Nano 로 텍스트 파일 편집하기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-edit-text-files-in-linux-with-vim-and-nano-591076'>실습 시작</a>                  |
 |       02 | 📖 Linux 에서 쉘 환경 및 구성 관리                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-shell-environment-and-configuration-in-linux-590838'>실습 시작</a>         |
 |       03 | 📖 Linux 에서 입력 및 출력 리디렉션                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-redirecting-input-and-output-in-linux-590840'>실습 시작</a>                       |
 |       04 | 📖 useradd, usermod, userdel 을 이용한 Linux 사용자 계정 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837'>실습 시작</a> |
@@ -43,8 +43,8 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 |       09 | 📖 Linux 에서 grep 으로 텍스트 검색하기                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-search-text-with-grep-in-linux-590841'>실습 시작</a>                              |
 |       10 | 📖 Linux 에서 chown 명령으로 디렉터리 소유권 수정하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-modify-directory-ownership-with-chown-in-linux-590847'>실습 시작</a>              |
 |       11 | 📖 Linux 에서 파일 및 디렉토리 권한 관리하기                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-file-and-directory-permissions-in-linux-590844'>실습 시작</a>              |
-|       12 | 📖 Manage Special Permissions and umask in Linux              | 초급     | 곧 출시                                                                                                                                        |
-|       13 | 📖 Manage Linux Partitions and Filesystems                    | 초급     | 곧 출시                                                                                                                                        |
+|       12 | 📖 Linux 에서 특수 권한 및 umask 관리하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846'>실습 시작</a>               |
+|       13 | 📖 Linux 파티션 및 파일 시스템 관리                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-linux-partitions-and-filesystems-590845'>실습 시작</a>                     |
 |       14 | 📖 Create and Restore a Backup with tar in Linux              | 초급     | 곧 출시                                                                                                                                        |
 |       15 | 📖 Configure RAID and LVM Storage in Linux                    | 초급     | 곧 출시                                                                                                                                        |
 |       16 | 📖 Manage and Monitor Linux Processes                         | 초급     | 곧 출시                                                                                                                                        |
