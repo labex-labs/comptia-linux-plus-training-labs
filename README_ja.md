@@ -32,7 +32,7 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                               | 難易度   | 練習                                                                                                                                            |
 |----------------|--------------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Linux で vi エディタを使ってテキストファイルを編集する          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-edit-text-files-with-the-vi-editor-in-linux-590833'>ラボを開始</a>                 |
+|             01 | 📖 Linux で Vim と Nano を使ってテキストファイルを編集する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-edit-text-files-in-linux-with-vim-and-nano-591076'>ラボを開始</a>                  |
 |             02 | 📖 Linux におけるシェル環境と設定の管理                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-shell-environment-and-configuration-in-linux-590838'>ラボを開始</a>         |
 |             03 | 📖 Linux における入出力のリダイレクト                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-redirecting-input-and-output-in-linux-590840'>ラボを開始</a>                       |
 |             04 | 📖 useradd, usermod, userdel による Linux ユーザーアカウントの管理 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837'>ラボを開始</a> |
@@ -43,8 +43,8 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 |             09 | 📖 Linux で grep を使ってテキストを検索                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-search-text-with-grep-in-linux-590841'>ラボを開始</a>                              |
 |             10 | 📖 Linux で chown コマンドを使用してディレクトリの所有権を変更する | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-modify-directory-ownership-with-chown-in-linux-590847'>ラボを開始</a>              |
 |             11 | 📖 Linux におけるファイルおよびディレクトリのパーミッション管理    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-file-and-directory-permissions-in-linux-590844'>ラボを開始</a>              |
-|             12 | 📖 Manage Special Permissions and umask in Linux                   | 初級     | 近日公開                                                                                                                                        |
-|             13 | 📖 Manage Linux Partitions and Filesystems                         | 初級     | 近日公開                                                                                                                                        |
+|             12 | 📖 Linux における特殊権限と umask の管理                           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846'>ラボを開始</a>               |
+|             13 | 📖 Linux パーティションとファイルシステムの管理                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-linux-partitions-and-filesystems-590845'>ラボを開始</a>                     |
 |             14 | 📖 Create and Restore a Backup with tar in Linux                   | 初級     | 近日公開                                                                                                                                        |
 |             15 | 📖 Configure RAID and LVM Storage in Linux                         | 初級     | 近日公開                                                                                                                                        |
 |             16 | 📖 Manage and Monitor Linux Processes                              | 初級     | 近日公開                                                                                                                                        |
