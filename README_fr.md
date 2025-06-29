@@ -45,17 +45,17 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 |      11 | 📖 Gérer les permissions de fichiers et de répertoire... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-manage-file-and-directory-permissions-in-linux-590844'>Commencer le Lab</a>              |
 |      12 | 📖 Gérer les permissions spéciales et umask sous Linu... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846'>Commencer le Lab</a>               |
 |      13 | 📖 Gérer les partitions et systèmes de fichiers sous ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-manage-linux-partitions-and-filesystems-590845'>Commencer le Lab</a>                     |
-|      14 | 📖 Create and Restore a Backup with tar in Linux         | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      15 | 📖 Configure RAID and LVM Storage in Linux               | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      16 | 📖 Manage and Monitor Linux Processes                    | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      17 | 📖 Schedule Tasks with at and cron in Linux              | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      18 | 📖 Managing Packages with RPM in Linux                   | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      19 | 📖 Query and Update Packages with YUM in Linux           | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      20 | 📖 Build Software from Source Code in Linux              | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      21 | 📖 Manage Shared Libraries in Linux                      | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      22 | 📖 Customize the GRUB2 Boot Menu in Linux                | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      23 | 📖 Manage Kernel Modules in Linux                        | Débutant     | Bientôt Disponible                                                                                                                                    |
-|      24 | 📖 Explore Hardware Devices in Linux                     | Débutant     | Bientôt Disponible                                                                                                                                    |
+|      14 | 📖 Créer et restaurer une sauvegarde avec tar sous Li... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-create-and-restore-a-backup-with-tar-in-linux-590843'>Commencer le Lab</a>               |
+|      15 | 📖 Configurer le stockage RAID et LVM sous Linux         | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-configure-raid-and-lvm-storage-in-linux-590842'>Commencer le Lab</a>                     |
+|      16 | 📖 Gérer et surveiller les processus Linux               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-manage-and-monitor-linux-processes-590864'>Commencer le Lab</a>                          |
+|      17 | 📖 Planifier des tâches avec at et cron sous Linux       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-schedule-tasks-with-at-and-cron-in-linux-590870'>Commencer le Lab</a>                    |
+|      18 | 📖 Gestion des paquets avec RPM sous Linux               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/rhel-managing-packages-with-rpm-in-linux-590868'>Commencer le Lab</a>                          |
+|      19 | 📖 Interroger et mettre à jour des paquets avec YUM s... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/rhel-query-and-update-packages-with-yum-in-linux-590869'>Commencer le Lab</a>                  |
+|      20 | 📖 Compiler des logiciels à partir du code source sou... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-build-software-from-source-code-in-linux-590853'>Commencer le Lab</a>                    |
+|      21 | 📖 Gérer les bibliothèques partagées sous Linux          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-manage-shared-libraries-in-linux-590867'>Commencer le Lab</a>                            |
+|      22 | 📖 Personnaliser le menu de démarrage GRUB2 sous Linu... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-customize-the-grub2-boot-menu-in-linux-590859'>Commencer le Lab</a>                      |
+|      23 | 📖 Gérer les modules du noyau sous Linux                 | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-manage-kernel-modules-in-linux-590865'>Commencer le Lab</a>                              |
+|      24 | 📖 Explorer les périphériques matériels sous Linux       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/linux-explore-hardware-devices-in-linux-590861'>Commencer le Lab</a>                           |
 |      25 | 📖 Connect to a Remote Linux Server Using SSH            | Débutant     | Bientôt Disponible                                                                                                                                    |
 |      26 | 📖 Configure SSH Public Key Authentication in Linux      | Débutant     | Bientôt Disponible                                                                                                                                    |
 |      27 | 📖 Configure firewalld to Allow Web Traffic in Linux     | Débutant     | Bientôt Disponible                                                                                                                                    |
@@ -70,7 +70,7 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Plus
 
-- 🔗 [CompTIA Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA Tutoriels Gratuits](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Linux Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux Tutoriels Gratuits](https://github.com/labex-labs/linux-free-tutorials)
 
