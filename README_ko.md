@@ -45,17 +45,17 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 |       11 | 📖 Linux 에서 파일 및 디렉토리 권한 관리하기                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-file-and-directory-permissions-in-linux-590844'>실습 시작</a>              |
 |       12 | 📖 Linux 에서 특수 권한 및 umask 관리하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846'>실습 시작</a>               |
 |       13 | 📖 Linux 파티션 및 파일 시스템 관리                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-linux-partitions-and-filesystems-590845'>실습 시작</a>                     |
-|       14 | 📖 Create and Restore a Backup with tar in Linux              | 초급     | 곧 출시                                                                                                                                        |
-|       15 | 📖 Configure RAID and LVM Storage in Linux                    | 초급     | 곧 출시                                                                                                                                        |
-|       16 | 📖 Manage and Monitor Linux Processes                         | 초급     | 곧 출시                                                                                                                                        |
-|       17 | 📖 Schedule Tasks with at and cron in Linux                   | 초급     | 곧 출시                                                                                                                                        |
-|       18 | 📖 Managing Packages with RPM in Linux                        | 초급     | 곧 출시                                                                                                                                        |
-|       19 | 📖 Query and Update Packages with YUM in Linux                | 초급     | 곧 출시                                                                                                                                        |
-|       20 | 📖 Build Software from Source Code in Linux                   | 초급     | 곧 출시                                                                                                                                        |
-|       21 | 📖 Manage Shared Libraries in Linux                           | 초급     | 곧 출시                                                                                                                                        |
-|       22 | 📖 Customize the GRUB2 Boot Menu in Linux                     | 초급     | 곧 출시                                                                                                                                        |
-|       23 | 📖 Manage Kernel Modules in Linux                             | 초급     | 곧 출시                                                                                                                                        |
-|       24 | 📖 Explore Hardware Devices in Linux                          | 초급     | 곧 출시                                                                                                                                        |
+|       14 | 📖 Linux 에서 tar 를 사용하여 백업 생성 및 복원하기           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-create-and-restore-a-backup-with-tar-in-linux-590843'>실습 시작</a>               |
+|       15 | 📖 Linux 에서 RAID 및 LVM 스토리지 구성하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-raid-and-lvm-storage-in-linux-590842'>실습 시작</a>                     |
+|       16 | 📖 Linux 프로세스 관리 및 모니터링                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-and-monitor-linux-processes-590864'>실습 시작</a>                          |
+|       17 | 📖 Linux 에서 at 및 cron 으로 작업 예약하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-schedule-tasks-with-at-and-cron-in-linux-590870'>실습 시작</a>                    |
+|       18 | 📖 Linux 에서 RPM 을 사용한 패키지 관리                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-managing-packages-with-rpm-in-linux-590868'>실습 시작</a>                          |
+|       19 | 📖 Linux 에서 YUM 으로 패키지 쿼리 및 업데이트하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/rhel-query-and-update-packages-with-yum-in-linux-590869'>실습 시작</a>                  |
+|       20 | 📖 Linux 에서 소스 코드로 소프트웨어 빌드하기                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-build-software-from-source-code-in-linux-590853'>실습 시작</a>                    |
+|       21 | 📖 Linux 에서 공유 라이브러리 관리하기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-shared-libraries-in-linux-590867'>실습 시작</a>                            |
+|       22 | 📖 Linux 에서 GRUB2 부팅 메뉴 사용자 정의하기                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-customize-the-grub2-boot-menu-in-linux-590859'>실습 시작</a>                      |
+|       23 | 📖 Linux 커널 모듈 관리                                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-kernel-modules-in-linux-590865'>실습 시작</a>                              |
+|       24 | 📖 Linux 에서 하드웨어 장치 탐색하기                          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-explore-hardware-devices-in-linux-590861'>실습 시작</a>                           |
 |       25 | 📖 Connect to a Remote Linux Server Using SSH                 | 초급     | 곧 출시                                                                                                                                        |
 |       26 | 📖 Configure SSH Public Key Authentication in Linux           | 초급     | 곧 출시                                                                                                                                        |
 |       27 | 📖 Configure firewalld to Allow Web Traffic in Linux          | 초급     | 곧 출시                                                                                                                                        |
@@ -70,7 +70,7 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 더 보기
 
-- 🔗 [CompTIA 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA 무료 튜토리얼](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Linux 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 무료 튜토리얼](https://github.com/labex-labs/linux-free-tutorials)
 
