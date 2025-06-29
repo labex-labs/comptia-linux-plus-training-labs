@@ -45,17 +45,17 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 |     11 | 📖 在 Linux 中管理文件和目录权限                         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-file-and-directory-permissions-in-linux-590844'>开始实验</a>              |
 |     12 | 📖 在 Linux 中管理特殊权限和 umask                       | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-special-permissions-and-umask-in-linux-590846'>开始实验</a>               |
 |     13 | 📖 管理 Linux 分区和文件系统                             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-linux-partitions-and-filesystems-590845'>开始实验</a>                     |
-|     14 | 📖 Create and Restore a Backup with tar in Linux         | 初级   | 即将推出                                                                                                                                      |
-|     15 | 📖 Configure RAID and LVM Storage in Linux               | 初级   | 即将推出                                                                                                                                      |
-|     16 | 📖 Manage and Monitor Linux Processes                    | 初级   | 即将推出                                                                                                                                      |
-|     17 | 📖 Schedule Tasks with at and cron in Linux              | 初级   | 即将推出                                                                                                                                      |
-|     18 | 📖 Managing Packages with RPM in Linux                   | 初级   | 即将推出                                                                                                                                      |
-|     19 | 📖 Query and Update Packages with YUM in Linux           | 初级   | 即将推出                                                                                                                                      |
-|     20 | 📖 Build Software from Source Code in Linux              | 初级   | 即将推出                                                                                                                                      |
-|     21 | 📖 Manage Shared Libraries in Linux                      | 初级   | 即将推出                                                                                                                                      |
-|     22 | 📖 Customize the GRUB2 Boot Menu in Linux                | 初级   | 即将推出                                                                                                                                      |
-|     23 | 📖 Manage Kernel Modules in Linux                        | 初级   | 即将推出                                                                                                                                      |
-|     24 | 📖 Explore Hardware Devices in Linux                     | 初级   | 即将推出                                                                                                                                      |
+|     14 | 📖 在 Linux 中使用 tar 创建和恢复备份                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-create-and-restore-a-backup-with-tar-in-linux-590843'>开始实验</a>               |
+|     15 | 📖 在 Linux 中配置 RAID 和 LVM 存储                      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-configure-raid-and-lvm-storage-in-linux-590842'>开始实验</a>                     |
+|     16 | 📖 管理和监控 Linux 进程                                 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-and-monitor-linux-processes-590864'>开始实验</a>                          |
+|     17 | 📖 在 Linux 中使用 at 和 cron 调度任务                   | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-schedule-tasks-with-at-and-cron-in-linux-590870'>开始实验</a>                    |
+|     18 | 📖 在 Linux 中使用 RPM 管理软件包                        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-managing-packages-with-rpm-in-linux-590868'>开始实验</a>                          |
+|     19 | 📖 在 Linux 中使用 YUM 查询和更新软件包                  | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/rhel-query-and-update-packages-with-yum-in-linux-590869'>开始实验</a>                  |
+|     20 | 📖 在 Linux 中从源代码构建软件                           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-build-software-from-source-code-in-linux-590853'>开始实验</a>                    |
+|     21 | 📖 管理 Linux 共享库                                     | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-shared-libraries-in-linux-590867'>开始实验</a>                            |
+|     22 | 📖 在 Linux 中自定义 GRUB2 引导菜单                      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-customize-the-grub2-boot-menu-in-linux-590859'>开始实验</a>                      |
+|     23 | 📖 Linux 内核模块管理                                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-kernel-modules-in-linux-590865'>开始实验</a>                              |
+|     24 | 📖 探索 Linux 中的硬件设备                               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-explore-hardware-devices-in-linux-590861'>开始实验</a>                           |
 |     25 | 📖 Connect to a Remote Linux Server Using SSH            | 初级   | 即将推出                                                                                                                                      |
 |     26 | 📖 Configure SSH Public Key Authentication in Linux      | 初级   | 即将推出                                                                                                                                      |
 |     27 | 📖 Configure firewalld to Allow Web Traffic in Linux     | 初级   | 即将推出                                                                                                                                      |
@@ -70,7 +70,7 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 更多
 
-- 🔗 [CompTIA 编程课程](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [CompTIA 编程项目](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [CompTIA 免费教程](https://github.com/labex-labs/comptia-free-tutorials)
+- 🔗 [Linux 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 免费教程](https://github.com/labex-labs/linux-free-tutorials)
 
