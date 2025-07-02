@@ -64,9 +64,8 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 |     30 | 📖 配置 Linux 用户账户和 Sudo 权限                      | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-configure-user-accounts-and-sudo-privileges-in-linux-590856'>开始实验</a>        |
 |     31 | 📖 在 Linux 中为 Apache 管理 SELinux 文件上下文         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-selinux-file-contexts-for-apache-in-linux-590866'>开始实验</a>            |
 |     32 | 📖 在 Linux 中管理本地 Git 仓库                         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-manage-a-local-git-repository-in-linux-590863'>开始实验</a>                      |
-|     33 | 📖 Create and Activate a Swap File in Linux             | 初级   | 即将推出                                                                                                                                      |
-|     34 | 📖 Troubleshoot Basic Network Issues in Linux           | 初级   | 即将推出                                                                                                                                      |
-|     35 | 📖 Install a CentOS 7 Linux VM in VirtualBox            | 初级   | 即将推出                                                                                                                                      |
+|     33 | 📖 在 Linux 中创建和激活交换文件                        | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-create-and-activate-a-swap-file-in-linux-590858'>开始实验</a>                    |
+|     34 | 📖 在 VirtualBox 中安装 CentOS 7 Linux 虚拟机           | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-install-a-centos-7-linux-vm-in-virtualbox-590862'>开始实验</a>                   |
 
 ## 更多
 
