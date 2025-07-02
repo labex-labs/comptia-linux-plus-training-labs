@@ -64,9 +64,8 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 |             30 | 📖 Linux におけるユーザーアカウントと Sudo 権限の設定              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-configure-user-accounts-and-sudo-privileges-in-linux-590856'>ラボを開始</a>        |
 |             31 | 📖 Linux における Apache の SELinux ファイルコンテキスト管理       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-selinux-file-contexts-for-apache-in-linux-590866'>ラボを開始</a>            |
 |             32 | 📖 Linux でローカル Git リポジトリを管理する                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-manage-a-local-git-repository-in-linux-590863'>ラボを開始</a>                      |
-|             33 | 📖 Create and Activate a Swap File in Linux                        | 初級     | 近日公開                                                                                                                                        |
-|             34 | 📖 Troubleshoot Basic Network Issues in Linux                      | 初級     | 近日公開                                                                                                                                        |
-|             35 | 📖 Install a CentOS 7 Linux VM in VirtualBox                       | 初級     | 近日公開                                                                                                                                        |
+|             33 | 📖 Linux でスワップファイルを作成・有効化する                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-create-and-activate-a-swap-file-in-linux-590858'>ラボを開始</a>                    |
+|             34 | 📖 VirtualBox に CentOS 7 Linux VM をインストールする              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-install-a-centos-7-linux-vm-in-virtualbox-590862'>ラボを開始</a>                   |
 
 ## その他
 
