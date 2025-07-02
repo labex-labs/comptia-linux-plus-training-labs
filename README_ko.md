@@ -64,9 +64,8 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 |       30 | 📖 Linux 사용자 계정 및 Sudo 권한 설정                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-user-accounts-and-sudo-privileges-in-linux-590856'>실습 시작</a>        |
 |       31 | 📖 Linux 에서 Apache SELinux 파일 컨텍스트 관리               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-selinux-file-contexts-for-apache-in-linux-590866'>실습 시작</a>            |
 |       32 | 📖 Linux 에서 로컬 Git 저장소 관리하기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-manage-a-local-git-repository-in-linux-590863'>실습 시작</a>                      |
-|       33 | 📖 Create and Activate a Swap File in Linux                   | 초급     | 곧 출시                                                                                                                                        |
-|       34 | 📖 Troubleshoot Basic Network Issues in Linux                 | 초급     | 곧 출시                                                                                                                                        |
-|       35 | 📖 Install a CentOS 7 Linux VM in VirtualBox                  | 초급     | 곧 출시                                                                                                                                        |
+|       33 | 📖 Linux 에서 스왑 파일 생성 및 활성화하기                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-create-and-activate-a-swap-file-in-linux-590858'>실습 시작</a>                    |
+|       34 | 📖 VirtualBox 에 CentOS 7 Linux VM 설치하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-install-a-centos-7-linux-vm-in-virtualbox-590862'>실습 시작</a>                   |
 
 ## 더 보기
 
