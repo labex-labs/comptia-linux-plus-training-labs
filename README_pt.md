@@ -64,9 +64,8 @@ Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |       30 | 📖 Configurar Contas de Usuário e Privilégios Sudo no... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-configure-user-accounts-and-sudo-privileges-in-linux-590856'>Iniciar Lab</a>        |
 |       31 | 📖 Gerenciar Contextos de Arquivo SELinux para Apache... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-manage-selinux-file-contexts-for-apache-in-linux-590866'>Iniciar Lab</a>            |
 |       32 | 📖 Gerenciar um Repositório Git Local no Linux           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-manage-a-local-git-repository-in-linux-590863'>Iniciar Lab</a>                      |
-|       33 | 📖 Create and Activate a Swap File in Linux              | Iniciante     | Em Breve                                                                                                                                         |
-|       34 | 📖 Troubleshoot Basic Network Issues in Linux            | Iniciante     | Em Breve                                                                                                                                         |
-|       35 | 📖 Install a CentOS 7 Linux VM in VirtualBox             | Iniciante     | Em Breve                                                                                                                                         |
+|       33 | 📖 Criar e Ativar um Arquivo de Swap no Linux            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-create-and-activate-a-swap-file-in-linux-590858'>Iniciar Lab</a>                    |
+|       34 | 📖 Instalar uma VM Linux CentOS 7 no VirtualBox          | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-install-a-centos-7-linux-vm-in-virtualbox-590862'>Iniciar Lab</a>                   |
 
 ## Mais
 
