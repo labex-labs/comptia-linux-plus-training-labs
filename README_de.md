@@ -64,9 +64,8 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 |      30 | 📖 Benutzerkonten und Sudo-Berechtigungen unter Linux... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-configure-user-accounts-and-sudo-privileges-in-linux-590856'>Labor Starten</a>        |
 |      31 | 📖 SELinux-Dateikontexte für Apache unter Linux verwa... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-selinux-file-contexts-for-apache-in-linux-590866'>Labor Starten</a>            |
 |      32 | 📖 Lokales Git-Repository unter Linux verwalten          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-manage-a-local-git-repository-in-linux-590863'>Labor Starten</a>                      |
-|      33 | 📖 Create and Activate a Swap File in Linux              | Anfänger        | Demnächst Verfügbar                                                                                                                                |
-|      34 | 📖 Troubleshoot Basic Network Issues in Linux            | Anfänger        | Demnächst Verfügbar                                                                                                                                |
-|      35 | 📖 Install a CentOS 7 Linux VM in VirtualBox             | Anfänger        | Demnächst Verfügbar                                                                                                                                |
+|      33 | 📖 Swap-Datei in Linux erstellen und aktivieren          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-create-and-activate-a-swap-file-in-linux-590858'>Labor Starten</a>                    |
+|      34 | 📖 CentOS 7 Linux VM in VirtualBox installieren          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-install-a-centos-7-linux-vm-in-virtualbox-590862'>Labor Starten</a>                   |
 
 ## Mehr
 
