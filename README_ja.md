@@ -19,7 +19,7 @@
 
 |   インデックス | 名前                                                                  | 難易度   | 練習                                                                                                                                              |
 |----------------|-----------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🆓 Linux で Vim と Nano を使ってテキストファイルを編集する         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076'>ラボを開始</a>                  |
+|             01 | 📖 🆓 Vim と Nano を使った Linux でのテキストファイル編集             | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076'>ラボを開始</a>                  |
 |             02 | 📖 🆓 Linux におけるシェル環境と設定の管理                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-manage-shell-environment-and-configuration-in-linux-590838'>ラボを開始</a>         |
 |             03 | 📖 🆓 Linux における入出力のリダイレクト                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-redirecting-input-and-output-in-linux-590840'>ラボを開始</a>                       |
 |             04 | 📖 🆓 useradd, usermod, userdel による Linux ユーザーアカウントの管理 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837'>ラボを開始</a> |
@@ -54,19 +54,9 @@
 |             33 | 📖  Linux でスワップファイルを作成・有効化する                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-create-and-activate-a-swap-file-in-linux-590858'>ラボを開始</a>                    |
 |             34 | 📖  VirtualBox に CentOS 7 Linux VM をインストールする                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/comptia-install-a-centos-7-linux-vm-in-virtualbox-590862'>ラボを開始</a>                   |
 
-## 環境
+## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
-- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
-- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
-- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
-- 最新の AI モデルを基盤とした学習アシスタント Labby による対話型学習体験。
-
-詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
