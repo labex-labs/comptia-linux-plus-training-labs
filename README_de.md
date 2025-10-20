@@ -19,7 +19,7 @@ Erlernen Sie die Linux-Systemadministration durch praktische Übungen, die Komma
 
 |   Index | Name                                                        | Schwierigkeit   | Übung                                                                                                                                                |
 |---------|-------------------------------------------------------------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🆓 Textdateien in Linux mit Vim und Nano bearbeiten      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076'>Labor Starten</a>                  |
+|      01 | 📖 🆓 Textdateien unter Linux mit Vim und Nano bearbeite... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076'>Labor Starten</a>                  |
 |      02 | 📖 🆓 Linux Shell-Umgebung und Konfiguration verwalten      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-manage-shell-environment-and-configuration-in-linux-590838'>Labor Starten</a>         |
 |      03 | 📖 🆓 Eingabe- und Ausgabeweiterleitung in Linux            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-redirecting-input-and-output-in-linux-590840'>Labor Starten</a>                       |
 |      04 | 📖 🆓 Linux-Benutzerkonten verwalten mit useradd, usermo... | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837'>Labor Starten</a> |
@@ -54,19 +54,9 @@ Erlernen Sie die Linux-Systemadministration durch praktische Übungen, die Komma
 |      33 | 📖  Swap-Datei in Linux erstellen und aktivieren            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-create-and-activate-a-swap-file-in-linux-590858'>Labor Starten</a>                    |
 |      34 | 📖  CentOS 7 Linux VM in VirtualBox installieren            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/comptia-install-a-centos-7-linux-vm-in-virtualbox-590862'>Labor Starten</a>                   |
 
-## Umgebung
+## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- Ein strikter "Learning by Doing"-Ansatz mit exklusiven praktischen Laboren ohne Videos.
-- Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
-- Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
-- Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
-
-Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
