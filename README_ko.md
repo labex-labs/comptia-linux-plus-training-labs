@@ -19,7 +19,7 @@
 
 |   인덱스 | 이름                                                             | 난이도   | 연습                                                                                                                                             |
 |----------|------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 Linux 에서 Vim 및 Nano 로 텍스트 파일 편집하기             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076'>실습 시작</a>                  |
+|       01 | 📖 🆓 Vim 과 Nano 를 사용하여 Linux 에서 텍스트 파일 편집하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-edit-text-files-in-linux-with-vim-and-nano-591076'>실습 시작</a>                  |
 |       02 | 📖 🆓 Linux 에서 쉘 환경 및 구성 관리                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-manage-shell-environment-and-configuration-in-linux-590838'>실습 시작</a>         |
 |       03 | 📖 🆓 Linux 에서 입력 및 출력 리디렉션                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-redirecting-input-and-output-in-linux-590840'>실습 시작</a>                       |
 |       04 | 📖 🆓 useradd, usermod, userdel 을 이용한 Linux 사용자 계정 관리 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-manage-linux-user-accounts-with-useradd-usermod-and-userdel-590837'>실습 시작</a> |
@@ -54,19 +54,9 @@
 |       33 | 📖  Linux 에서 스왑 파일 생성 및 활성화하기                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-create-and-activate-a-swap-file-in-linux-590858'>실습 시작</a>                    |
 |       34 | 📖  VirtualBox 에 CentOS 7 Linux VM 설치하기                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/comptia-install-a-centos-7-linux-vm-in-virtualbox-590862'>실습 시작</a>                   |
 
-## 환경
+## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
-
-![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
-
-- 비디오 없는 독점적인 실습 실험실로 엄격한 "실습을 통한 학습" 접근 방식.
-- 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
-- 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
-- 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
-
-자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
